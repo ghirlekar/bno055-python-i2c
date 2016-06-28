@@ -2,7 +2,7 @@
 Python module for the Adafruit BNO055 on the Raspberry Pi connected through I2C.
 
 # Getting started procedure
-This procedure is the a Raspberry Pi 2 running Ubuntu 14.04 (Trusty). The Raspbian procedure is well documented by Adafruit and others
+These steps are for the a Raspberry Pi 2 running Ubuntu 14.04 (Trusty). The equivalent steps for Raspbian are well documented by Adafruit and others.
 
 ## Installing Kernel support
 Open this file
